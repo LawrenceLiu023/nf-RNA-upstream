@@ -1,0 +1,6 @@
+.nextflow*
+logs/*
+multiqc_reports/
+reports/*
+test/*
+work/*

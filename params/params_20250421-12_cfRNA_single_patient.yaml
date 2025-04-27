@@ -1,0 +1,5 @@
+genomeFaPath: '/mainsd2/liujh/workspaces/data/common/hg19/hg19.fa'
+genomeGtfPath: "/mainsd2/liujh/workspaces/data/common/hg19/genes/hg19.ncbiRefSeq.gtf"
+sampleSheetPath : '/mainsd2/liujh/workspaces/git/nf-RNA-upstream/params/params_20250421-12_cfRNA_single_patient.tsv'
+hisatIndexPrefix : '/mainsd2/liujh/workspaces/data/common/hg19/hisat/hg19'
+maxCpus : 30
